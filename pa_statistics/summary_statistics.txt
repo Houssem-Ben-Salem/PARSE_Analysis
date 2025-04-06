@@ -1,0 +1,28 @@
+# Pulmonary Artery Dataset Summary Statistics
+
+## Global Statistics
+total_cases: 110
+cases_with_pa: 110
+total_slices: 28882
+slices_with_pa: 17440
+percent_slices_with_pa: 60.38
+total_voxels: 7513630882
+total_pa_voxels: 47482128
+pa_percentage: 0.63
+total_pa_volume_mm3: 47482128.00
+
+## Distribution Statistics
+pa_volume_mean: 431655.71
+pa_volume_median: 344221.50
+pa_volume_std: 382668.89
+pa_volume_min: 34557.00
+pa_volume_max: 2560758.00
+pa_volume_quartiles: 187712.50, 344221.50, 524723.25
+pa_percentage_mean: 0.62
+pa_percentage_median: 0.50
+slices_per_case_mean: 262.56
+slices_per_case_median: 275.00
+slices_per_case_std: 82.75
+small_pa: 28
+medium_pa: 54
+large_pa: 28
